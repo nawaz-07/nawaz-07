@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/789-nawaz](https://github.com/789-nawaz)
+- 👨‍💻 All of my projects are available at [https://github.com/789-nawaz](https://github.com/nawaz-07)
 
 - 💬 Ask me about **Flask and Django**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/789-nawaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/789-nawaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/789-nawaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nawaz-07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ansari98nawaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ansari98nawaz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/nawaz_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nawaz_07" height="30" width="40" /></a>
 </p>
@@ -31,10 +31,10 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div style="flex: 1; margin-right: 10px">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=789-nawaz&show_icons=true&locale=en&layout=compact" alt="789-nawaz" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawaz-07&show_icons=true&locale=en&layout=compact" alt="nawaz-07" />
     </div>
     <div style="flex: 1; margin-right: 10px;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=789-nawaz&show_icons=true&locale=en" alt="789-nawaz" width="330" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nawaz-07&show_icons=true&locale=en" alt="nawaz-07" width="330" />
     </div>
 </div>
 
