@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQHWLyBbaLmhpQ/profile-displaybackgroundimage-shrink_350_1400/0/1687291535047?e=1698883200&v=beta&t=kYqu7xvXb6bQ4tBR-ERTxjDJj7hubodr80olBXSSD1Q)
 <h1 align="center">Hi 👋, I'm Nawaz Ansari</h1>
 <h3 align="center">A Passionate Python Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
