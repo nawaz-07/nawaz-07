@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/789-nawaz](https://github.com/nawaz-07)
+- 👨‍💻 All of my projects are available at [https://github.com/nawaz-07](https://github.com/nawaz-07)
 
 - 💬 Ask me about **Flask and Django**
 
